@@ -1,0 +1,186 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A third representation of the case of the hospitaler of St Thomas wherein the point of law is argued and discussed, humbly addressed to the right worshipful the president and the court of the governours at their next general meeting.</title>
+            <author>Turner, John, b. 1649 or 50.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1689</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 23 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A63920</idno>
+            <idno type="STC">Wing T3318B</idno>
+            <idno type="STC">ESTC R26336</idno>
+            <idno type="EEBO-CITATION">09432144</idno>
+            <idno type="OCLC">ocm 09432144</idno>
+            <idno type="VID">43080</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A63920)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 43080)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1318:29)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A third representation of the case of the hospitaler of St Thomas wherein the point of law is argued and discussed, humbly addressed to the right worshipful the president and the court of the governours at their next general meeting.</title>
+                  <author>Turner, John, b. 1649 or 50.</author>
+               </titleStmt>
+               <extent>11 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1689.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Hughes, William, b. 1624 or 5.</term>
+               <term>Church of England --  Clergy.</term>
+               <term>St. Thomas's Hospital (London, England)</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-11</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2009-11</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:43080:1"/>
+            <pb facs="tcp:43080:1" rendition="simple:additions"/>
+            <p>A THIRD REPRESENTATION OF THE CASE OF THE HOSPITALER OF S<hi rend="sup">t</hi> 
+               <hi>THOMAS:</hi> WHEREIN The Point of Law is Argued and Diſcuſſed; Humbly Addreſſed To the Right Worſhipful the PRESIDENT, and the Court of the GOVERNOURS, at their next General Meeting.</p>
+            <q>
+               <hi>—Necdum finitus Oreſtes.</hi>
+            </q>
+            <p>Printed in the YEAR 1689.</p>
+         </div>
+         <div type="epigraph">
+            <pb facs="tcp:43080:2" rendition="simple:additions"/>
+            <head>CLEANTHES apud Epictetum in Enchiridio.</head>
+            <q>
+               <l>
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>,</l>
+               <l>
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>
+               </l>
+               <l>
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>,</l>
+               <l>
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</l>
+               <bibl>
+                  <hi>Idem ex Verſione Senecae,</hi> Epiſt. 107.</bibl>
+            </q>
+            <q>
+               <l>Duc me parens celſique dominator poli,</l>
+               <l>Quocunque placuit, nulla parendi mora eſt.</l>
+               <l>Aſſum impiger, fac nolle, comitabor gemens,</l>
+               <l>Maluſque patiar, quod pati licuit bono.</l>
+            </q>
+         </div>
+      </front>
+      <body>
+         <div type="case">
+            <pb n="3" facs="tcp:43080:2"/>
+            <head>A THIRD REPRESENTATION OF THE CASE OF THE Hoſpitaler of St. <hi>THOMAS,</hi> &amp;c.</head>
+            <p>THE true deciſion of the Controverſie depending be<g ref="char:EOLhyphen"/>twixt Mr. <hi>Hughes</hi> and Mr. <hi>Turner,</hi> is very plain and eaſie to any man that will conſider it upon right Principles.</p>
+            <p>For all the queſtion is, Whether the Kings and Queens of <hi>England</hi> for the time being, are the Supreme Viſitors and Diſpoſers of this Houſe and its Affairs and Officers or no; for upon ſuppoſition that they are, what the King doth by his Commiſſioners acting by his Authority, and not exceeding the Powers committed to them, he doth by himſelf, and if there be no appeal from the King, if he be inveſted with a legal Power, to viſit this Houſe whenever there is occaſion, or whenever he thinks or judgeth that there is, without appeal, (which cannot be admitted without ſuppoſing a ſuperior Judge) then there can be no appeal from the Commiſſioners neither, tho they ſhould exceed the Powers committed to them, but only to the King, becauſe they are immediatly conſtituted and authorized by him, who is the ſu<g ref="char:EOLhyphen"/>preme, and therefore cannot be ſubject to any inferior Juriſdiction or Authority whatſoever.</p>
+            <pb n="4" facs="tcp:43080:3"/>
+            <p>That the King hath actually ſuch a legal Power of viſiting and inſpecting the management of this Houſe, appears firſt by its being a Royal Foundation, endowed and conſtituted by <hi>Edward</hi> the Sixth.</p>
+            <p>And ſecondly by the expreſs reſerve in the Charter or Inſtru<g ref="char:EOLhyphen"/>ment by which this Royal Charity was conſigned and conveyed, in which there is an appeal reſerved, and a power of Viſitation grant<g ref="char:EOLhyphen"/>ed to the Kings and Queens of <hi>England</hi> for ever.</p>
+            <p>Thirdly, the ſame thing appears from the nature of the Cha<g ref="char:EOLhyphen"/>rity, which was for the relief of their Majeſties poor Subjects, and more eſpecially of thoſe who are ſick or wounded in their par<g ref="char:EOLhyphen"/>ticular ſervice, and in the defence and maintenance of their Coun<g ref="char:EOLhyphen"/>try, and the deceaſing King, or otherwiſe reſigning or relinquiſhing his Government, doth with his Crown and Scepter, with his Im<g ref="char:EOLhyphen"/>perial Diadem, his Prerogatives and Territories, his Throne of Majeſty, and his Royal Robes, tranſmit the Cares that were lately incumbent upon himſelf: So that every new Royal Hoſpital that is founded for the good in general of the infirm and ſick, and more particularly of thoſe that are ſo in their Majeſties and their Coun<g ref="char:EOLhyphen"/>tries ſervice, becomes a new part of the Regal Adminiſtration and his Dominion, the moſt eaſie and natural, the moſt charming and delightful part of it, is in ſome ſenſe enlarged by every ſuch new Foundation. But there is nothing certainly more contrary to Senſe, or more abhorrent from Nature, than to ſuppoſe a King ſitting with his hands tied under his irkſome Canopy of State, and looking like an unconcern'd, or which is ſtill worſe, an impotent Spectator, while the Charity of his Royal Predeceſſors is either abuſed to ill purpoſes, or managed by Perſons that are unfit for their charge, or undeſerving of the ſame: And if this be ſo abſurd, ſo monſtrous, ſo very irrational and ſtrange a thing, then is it that ſort of demon<g ref="char:EOLhyphen"/>ſtration which the Schools call <hi>per abſurdum,</hi> it is an impoſſibility in Politiques, whatever it be in Nature, a thing that can never be ſuppoſed on the one hand, or granted on the other, that the pre<g ref="char:EOLhyphen"/>ſent King or Queen ſhould not always be intruſted with a power of Viſitation in caſe of ſuch abuſes, or in caſe they are of opinion that any ſuch are committed, in all the reſpective Charities and Endow<g ref="char:EOLhyphen"/>ments of their Royal and glorious Predeceſſors, the fragrant and ſweet Odor of whoſe happy Memory, ought not to be choaked or ſtifled, or corrupted, by the imbezeling or abuſing of their Princely goodneſs, through any legal impotence or diſability in thoſe that
+<pb n="5" facs="tcp:43080:3"/>ſucceed to their Imperial Fortune, either to prevent or remedy ſo great a Miſchief.</p>
+            <p>That the King ſhould found an Hoſpital, and take no immediate care of it when he hath done, eſpecially when Abuſes creep into the Conſtitution, and begin to make Flaws and Cracks in the building he hath erected, is a Piety plainly inconſiſtent with it ſelf, and it would be ſtill more ſtrange, that he that had been at the charge, care, and contrivance of the Foundation, that had en<g ref="char:EOLhyphen"/>dowed it, ordered it, ſetled and eſtabliſhed it upon a Rule and Platform not to be tranſgreſſed, not to be changed or altered in any wiſe or manner whatſoever; and that had taken care, during his own Life or Reign, that all thoſe Meaſures ſhould be exactly obſerved, that were for the good and reputation, and promoted the deſign of this his Chriſtian Munificence and Bounty, ſhould af<g ref="char:EOLhyphen"/>ter his deceaſe put it out of the power of his Succeſſors for ever to enquire any longer into the management of the truſt, let it be ne<g ref="char:EOLhyphen"/>ver ſo much neglected or abuſed; becauſe this would imply a neg<g ref="char:EOLhyphen"/>ligence ſo much greater in him, and ſo much more inconſiſtent with his own declared deſign in erecting and contriving an eſtabliſhment of this nature, as all after Ages are in proportion bigger and longer than the preſent, to the laſt end of the World. A tacit conſent in this Caſe would be ſufficient, nay, an expreſs prohibition would be of no avail, becauſe there is a plain truſt lodged in the nature of the thing, and the ſupreme Power is bound by virtue of its publick intention for the common good, to ſee that all publick Truſts be not abuſed, and when they are abuſed, that is the Judge, becauſe otherwiſe it cannot exerciſe it ſelf; only if the Prince in a mixt Monarchy, and in the intervals of Parliament, doth any thing by himſelf or his Com<g ref="char:EOLhyphen"/>miſſioners, to the injury of his Subjects, there lies a natural Appeal to that Aſſembly, or to that part of it which is the ſupreme Judica<g ref="char:EOLhyphen"/>ture, and the laſt reſort for the obtaining of right; and if Mr. <hi>Hughes</hi> pleaſeth to carry his Buſineſs thither, Mr. <hi>Turner</hi> will not fail to tread upon his Heels, and follow him thither in a ſucceeding Track, tho for treading in his ſteps he deſires to be excuſed. A Royal Endow<g ref="char:EOLhyphen"/>ment doth naturally imply a Royal and equally Majeſtick Viſitation.</p>
+            <p>But beſides what it is in Argument, it is true in Fact, that the Kings and Queens of <hi>England</hi> for the time being have viſited and inſpected the Affairs and Officers of this Houſe, as often as there was occaſion. As for the two laſt Reigns, I know it will be urged, that the Regulations that were made depended upon the avoidance
+<pb n="6" facs="tcp:43080:4"/>of the Charter, and that the one was illegal as well as the other, the former being only in conſequence of the latter: But what then will theſe Objectors ſay to the preſent? Have their preſent Maje<g ref="char:EOLhyphen"/>ſties no power, notwithſtanding the reſtitution of the City Char<g ref="char:EOLhyphen"/>ter, to diſpoſe of the Revenues of the Hoſpital as they pleaſe, ſup<g ref="char:EOLhyphen"/>poſing they be ſtill laid out upon charitable uſes, for the relief and ſuccour of the ſick and wounded? What then is the meaning of their Majeſties late gracious and encouraging Declaration, for the reſerving one Moyety of their Hoſpitals during this preſent War, for the uſe of ſuch as ſhall fall ſick or be wounded in the ſer<g ref="char:EOLhyphen"/>vice? Why did the Privy Council order this Declaration to be printed? Were the King and they too both out in their Law? Could not He or they that have ordained one Moyety to be reſerved for thoſe that ſuffer in their ſervice, appropriate the whole, if occa<g ref="char:EOLhyphen"/>ſion ſhould require? How can they diſpoſe of one half without a prudential or occaſional Propriety? And how came they to have a Propriety to one half more than to the other? If they have no Propriety in ſuch a Houſe as this, they can no more ſend Sea-men or Soldiers to this Hoſpital for cure, than they can quarter them in private Houſes, and that without any ſatisfaction to the Maſters of them, as well as without their conſent, or than they can raiſe a Tax without the conſent of their People, notwithſtanding an Act of Par<g ref="char:EOLhyphen"/>liament in the one caſe, and the perpetual practice of the common Law for time immemorial in the other? But if they have a Propri<g ref="char:EOLhyphen"/>ety, a legal Right, a ſucceſſive Juriſdiction from their Royal Prede<g ref="char:EOLhyphen"/>ceſſors, who ſhall hinder them from doing what they pleaſe with their own? or diſpoſing of their Domeſtiques in their own Houſe, juſt as they pleaſe themſelves? Is it not ridiculous to ſay they may diſpoſe of the main body of the Revenue, which is perpetually ſpent upon the ſick and poor, but not of the Officers belonging to them, and of that part of the Revenue which belongs to their ſervice? That they may diſpoſe of Maſters, but not of their Servants; for we are indeed no other than Servants to the Poor, tho we may call our ſelves or take upon our ſelves like Maſters, we are in the nature of Inſtruments that are for the ſake of others, and not for themſelves; and if they for whoſe ſakes we are what we are, are at the Kings diſpoſal, then certainly we are much more; for In<g ref="char:EOLhyphen"/>ſtruments are valued by their fitneſs to their end, and they that are entruſted with the end it ſelf, are much more ſuppoſed to be judges of all thoſe means by which that end may moſt effectually
+<pb n="7" facs="tcp:43080:4"/>be accompliſhed. Shall he that owns an Eſtate, not chooſe his Steward? Shall he that keeps an Houſe, be denied the choice of his own Chaplain duly qualified according to the Laws of his Country, notwithſtanding he may if he pleaſeth, and for as long as he ſo pleaſeth, entruſt the exerciſe and adminiſtration of this Power in ſome ſubordinate hand? If theſe things be true, as certainly they are, let Mr. <hi>Turner</hi>'s Adverſaries ſhew, if they can, by any thing that looks like ſenſe, that they do not extend to his Caſe, and he will immediately ſurrender up all his pretenſions, or elſe, <hi>dentibus vipereis limam rodunt,</hi> they gnaw a File that will be too hard for their teeth, and had better hold their peace, than bark at the Moon to no purpoſe, for the Moon will ſtill ſhine and go on in its courſe, when they have tired their Lungs with barking at it. But what do I ſpeak of Moons, when the Sun himſelf is up, when the light of truth is in its Zenith, riding in a Chariot of meridian Flames, and all muſt own its brightneſs, but they that ſhut their eyes, and cannot encounter the piercing of its beams without be<g ref="char:EOLhyphen"/>ing dazled and blinded, who call light darkneſs, and miſ-call dark<g ref="char:EOLhyphen"/>neſs light, and have no ſenſe of the difference and diſtinction be<g ref="char:EOLhyphen"/>twixt the one and the other.</p>
+            <p>Mr. <hi>Turner,</hi> tho his own Property be concerned in this Affair, yet againſt ſo great oppoſition as he hath met with, he had not appeared ſo obſtinate in the defence of it, but that the Pariſh of S. <hi>Thomas</hi> it ſelf, being in the ſame Gift, and enjoyed by him upon no ther Title than the Hoſpital, he knew not how far ſuch Orders might extend, and he ſaw but too plainly that with equal reaſon they migh eject him out of all, ſo that it was <hi>proximus <g ref="char:V">Ʋ</g>calegon</hi> all over, and the Rector of S. <hi>Thomas</hi> could not ſtand by like a party unconcerned, when the Hoſpitaler was in ſo much danger.</p>
+            <p>He hopes after all the Clamors that have been raiſed againſt him for his Contempt and Diſobedience to the Court of Aldermen, to whom he has not been wanting to pay all due and reaſonable reſpect, that he ſhall be eaſily excuſed from any ſuch imputation, by all indifferent Perſons who ſhall conſider, that the Court of Aldermen is no Court of Judicature, and that this is a matter of Right, in which caſe there would have lain an Appeal, without any thing of Contempt, or any ſuſpicion of it, in all inferior Courts of Judicature themſelves; where is the Contempt, when he ſtands only by the Kings Prerogative? and when their Majeſties and the Privy Council are ſo plainly on his ſide, when without
+<pb n="8" facs="tcp:43080:5"/>reflecting on his particular Caſe, unworthy ſo great a cognizance as that is; they have made the one a poſitive Declaration, and both of them together an expreſs Order that involves it.</p>
+            <p>He is humbly of opinion, that his Poſſeſſion being legal in its root, and not to be diſturbed by any Power inferior or ſubor<g ref="char:EOLhyphen"/>dinate to that which gave it, without an expreſs Leave or Ap<g ref="char:EOLhyphen"/>pointment of the Supreme; and having enſured his fidelity to their preſent Majeſties, by taking the Oaths required by the late Act of Parliament made in that behalf, that he hath the aſ<g ref="char:EOLhyphen"/>ſurance of their Majeſties gracious protection, who have promiſ<g ref="char:EOLhyphen"/>ed to maintain the Church of <hi>England,</hi> and every individual Member of it in all their legal Poſſeſſions, and that he hath fur<g ref="char:EOLhyphen"/>ther the confirmation of the Parliament it ſelf, who by appoint<g ref="char:EOLhyphen"/>ing and preſcribing a Condition upon which all legal Eccleſia<g ref="char:EOLhyphen"/>ſtical Poſſeſſions ſhall be ſecurely enjoyed, and not otherwiſe, are ſuppoſed upon the performance of the Condition preſcribed, to confirm the Poſſeſſion to the preſent legal Incumbent, and ſuch is he till he be legally ejected, or till any body be ſo hardy to undertake to prove the contrary, and ſo ſucceſsful to do it. And I do hereby challenge all the Council that the Chamber of <hi>London</hi> can retain, to prove that Mr. <hi>Hughes</hi> hath any ſhadow of a Title, or that Mr. <hi>Turner</hi>'s Poſſeſſion is not ſtrictly legal.</p>
+            <p>The Place is immediately in their Majeſties diſpoſal; and be<g ref="char:EOLhyphen"/>ſides that, Mr. <hi>Hughes</hi> by being appointed by an inferior Power, is not ſufficiently authorized for what he pretends to; beſides that, he is for ever incapacitated and diſabled, by not taking the Teſt, as he ſhould have done. Mr. <hi>Turner</hi> humbly hopes that he is every whit as able and fit to ſerve the King and Queen in this or any other Station as his Competitor Mr. <hi>Hughes,</hi> though he were another ſort of Man in many reſpects than really he is.</p>
+            <p>As to Mr. <hi>Hughes</hi> his particular merit to the Royal Family, it is too well known to need many words to expreſs it; and be<g ref="char:EOLhyphen"/>cauſe Mr. <hi>Turner</hi> is accuſed by ſome that want ſomething to find fault with, of Diſingenuity and Malice, in repreſenting Truth, tho he was forced to it in his own defence, to let the World ſee that the Man and his Title were both of them alike, both equally rotten and vicious at the bottom, and that it was at leaſt a miſtaken and a ſinful Charity to ſupport him any longer, either in reſpect to his Perſon or his Cauſe; yet as to what re<g ref="char:EOLhyphen"/>la<gap reason="illegible" resp="#OXF" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> to his Sermon preached at <hi>Abingdon,</hi> if it be thought too
+<pb n="9" facs="tcp:43080:5"/>invidious to reflect upon it, he deſires it may be conſidered by ſuch Cenſurers as theſe, that nothing was more eſſential to his Argument than that was, nor any thing that could leſs be ſpared or omitted, by a Man that would defend himſelf as he ought to do againſt him; for notwithſtanding the Regulation that had been made in this Houſe, in the Reign of K. <hi>Charles</hi> II. yet upon the Solicitations that were made in behalf of Mr. <hi>Hughes,</hi> it is well known to all that are not unacquainted with the Hiſtory of that Affair, that he had certainly been reſtored again, had it not been that this very Sermon was put into the hands of one of the then Principal Secretaries of State, and by him a Repre<g ref="char:EOLhyphen"/>ſentation made of it to the King himſelf; after which His Ma<g ref="char:EOLhyphen"/>jeſty and thoſe that were then in power, were deaf to all En<g ref="char:EOLhyphen"/>treaties and Solicitations in his behalf; ſo that this being the very reaſon of his ejection from his Place, the very and the on<g ref="char:EOLhyphen"/>ly motive that turned the Scale againſt him, when all other Con<g ref="char:EOLhyphen"/>ſiderations were either forgotten, or forgiven, or neglected: I offer it to any Man of common ſence to conſider, whether a great<g ref="char:EOLhyphen"/>er Affront could poſſibly be offered to the memory of that ex<g ref="char:EOLhyphen"/>cellent Perſon and beloved Prince, whoſe Death was ſo univer<g ref="char:EOLhyphen"/>ſally lamented, that no Age, no Hiſtory can afford a parallel of ſo epidemical, ſo ſympathetique, ſo ſtrange and wonderful a Grief, a Grief that ſmote every breaſt with horror and ſurprize, that made all Faces pale, all Knees to ſhake, that tapped, like <hi>Moſes,</hi> even the Rocks themſelves, and made the moſt hard and unrelenting weep, than to reſcind his legal Act, or at leaſt to pretend to do it, by one that neither is nor can be ſo, and an Act that was done not only by him that had full power and au<g ref="char:EOLhyphen"/>thority for what he did, but alſo upon ſo juſt, ſo great, ſo per<g ref="char:EOLhyphen"/>ſonal and ſo ſacred a reſentment? Have we forgot thoſe Tears, and the reſpect that is due to the Aſhes of a Prince whoſe life was ſo ineſtimably precious in our ſight? Or do we diſallow the reaſon upon which he went in this particular Action? Do we condemn the Piety and the Duty that forced his gentle nature to a very gentle, but yet unwilling ſeverity upon ſo great an Of<g ref="char:EOLhyphen"/>fender, whom tho he had forgiven by an Act of Grace, yet without ſome teſtimonies of Repentance, ſome retaliation of Service for the Fault he had committed, he thought it a ſin to encourage and reward, or to let him eat, like <hi>Mephiboſheth,</hi> at the Kings Table, and be fed with the Bread of thoſe Princes whom he had,
+<pb n="10" facs="tcp:43080:6"/>like <hi>Shimei,</hi> curſed, and like ſome proud and haughty <hi>Philiſtin,</hi> had defied? In a word, do we pretend to juſtifie thoſe Princi<g ref="char:EOLhyphen"/>ples which he once eſpouſed, thoſe Practices which he publickly defended? How can we elſe go about to reſtore him to a Service which he loſt to his advantage, and out of which he was ejected for no reaſon but this, the greateſt and the worſt of provocations, by him that could have done it legally and unaccountably for no reaſon at all? Or is it not rather certain, that thoſe worthy Gen<g ref="char:EOLhyphen"/>tlemen, whoſe charity and good nature hath inclined them to re<g ref="char:EOLhyphen"/>ſtore him, were unacquainted with the true State and Hiſtory of his ejectment, which was done out of a principle of natural af<g ref="char:EOLhyphen"/>fection to a Prince and Father, and for a Cauſe in which all the Royal Family are equally concerned? However, Mr. <hi>Turner</hi> is certainly excuſable for urging this againſt him, becauſe he is the Perſon ſtruck at by Mr. <hi>Hughes,</hi> and all Weapons are lawful to him that is unjuſtly aſſaulted; and he is ſtill the more excuſable, becauſe he had no hand, nor ſo much as the tip of either of his little fingers in the management of that fatal Accuſation againſt him; nay, he really knew nothing either of him or his Sermon, and now he would have ſpared him the repetition of that Crime, as he would have done formerly of ſeveral others, if an hard neceſſity had not forced him to do things contrary to his nature; and if ſparing of him, who ſeeks his ruin ſo contrary to all ſenſe and juſtice, had not been injuſtice and cruelty to himſelf: But yet he doth not urge this as matter of Law, the Law will defend him upon another bottom, becauſe he was put into this ſtation by one King and confirmed by another, whoſe Power was para<g ref="char:EOLhyphen"/>mount to that which Mr. <hi>Hughes</hi> hath recourſe to, and who had a legally arbitrary and unaccountable diſpoſal veſted in themſelves, of the Affairs and Officers of this Houſe; and if neither they nor the Law, which is nothing elſe but common right and juſtice, are able to defend him, then his Caſe is worſe than that of the Rulers of <hi>Jezreel</hi> with reſpect to <hi>Jehu;</hi> for how ſhall he be able to defend himſelf againſt a Power which neither two Kings nor the Law it ſelf have been able to withſtand?</p>
+            <p>To conclude, whatever becomes of the Place for the future, the Arrears for the time paſt and ſo much longer, as till he be ejected by a competent Authority, are unqueſtionably his, and it is plain injuſtice, to give it the mildeſt term, to keep them from him; and Mr. <hi>Hughes,</hi> who neither can nor dare put Pen to Pa<g ref="char:EOLhyphen"/>per
+<pb n="11" facs="tcp:43080:6"/>to aſſert his Title, is neither more nor leſs than a Robber for receiving them: Mr. <hi>Turner</hi> therefore begs and entreats of the Court of Governours at their next general meeting, that they would conſider and redreſs the injuſtice that is done him, with<g ref="char:EOLhyphen"/>out putting him to the trouble and formality of bringing an Action againſt a litigious Fellow, or thoſe that have paid him what they cannot anſwer.</p>
+            <p>Mr. <hi>Turner</hi> is willing to ſubmit his whole Cauſe to be argued by Council on both ſides before the Court of Aldermen, or be<g ref="char:EOLhyphen"/>fore the Governors at their next general meeting, or to refer it to my Lords the Biſhops as many of them as are now in Town, or to any five of them whom Mr. <hi>Hughes</hi> ſhall chooſe, or to the Houſe of Commons, who are the Guardians of the Liberties of the People, or to the Houſe of Lords, who are the ſupreme Judicature of the Nation; and he would add alſo to the King and Queen themſelves, but that they are indeed Parties, their Royal Pre<g ref="char:EOLhyphen"/>rogative being intereſted in it; or to the Privy Council, but that they have already determined in his favour; and in one word, he ſubmits it to all Mankind, and to his Enemies them<g ref="char:EOLhyphen"/>ſelves, if they will ſpeak their Conſciences, as they will anſwer it at the day of Judgment, always provided, that they expect and believe there is ſuch a day a coming, whether Mr. <hi>Hughes</hi> or he be in the right, or which hath the juſter and the plainer Title of the two to the Place of Hoſpitaler of <hi>S. Thomas Southwark,</hi> or whe<g ref="char:EOLhyphen"/>ther a more baffled and ſhamefully defeated Cauſe than Mr. <hi>Hughes</hi>'s is, were ever known or heard of in any Story.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
